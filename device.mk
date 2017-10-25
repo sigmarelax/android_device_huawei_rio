@@ -166,10 +166,6 @@ PRODUCT_PACKAGES += \
     FMRadio \
     libfmjni
 
-# Gello
-PRODUCT_PACKAGES += \
-    Gello
-
 # KEYPAD
 PRODUCT_PACKAGES += \
     cyttsp5_mt.kl \
